@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="hint">Press the button to go to the calculator</string>
+</resources>
